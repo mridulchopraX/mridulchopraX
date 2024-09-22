@@ -6,6 +6,7 @@
 
 <br>
 <h2> 😎 About Me </h2>
+
 ```yaml
 name: Mridul Chopra
 located_in: Ontario, Canada
