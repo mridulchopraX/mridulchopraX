@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 </p>
 
 👋 Hi, I’m Mridul Chopra! I'm a Software Developer specializing in 💻 Java, Spring, and Spring Boot, passionate about building secure and scalable applications. I have expertise in ☁️ AWS, microservices architecture, and developing RESTful APIs and GraphQL services. I'm skilled in CI/CD with tools like Jenkins, Maven, and Gradle, and experienced with open-source frameworks like Hibernate and JPA. 🚀 Let’s connect and collaborate on innovative projects!
