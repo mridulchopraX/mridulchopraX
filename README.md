@@ -4,6 +4,8 @@
 
 👋 Hi, I’m Mridul Chopra! I'm a Software Developer specializing in 💻 Java, Spring, and Spring Boot, passionate about building secure and scalable applications. I have expertise in ☁️ AWS, microservices architecture, and developing RESTful APIs and GraphQL services. I'm skilled in CI/CD with tools like Jenkins, Maven, and Gradle, and experienced with open-source frameworks like Hibernate and JPA. 🚀 Let’s connect and collaborate on innovative projects!
 
+<br>
+<h2> 😎 About Me </h2>
 ```yaml
 name: Mridul Chopra
 located_in: Ontario, Canada
